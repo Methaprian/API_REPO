@@ -3,11 +3,11 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="restAssured_API.coopAPI.COOP_AUTH_Test">
+      <class name="Sample">
         <methods>
-          <include name="coopAPI"/>
+          <include name="flipkartValidate"/>
         </methods>
-      </class> <!-- restAssured_API.coopAPI.COOP_AUTH_Test -->
+      </class> <!-- Sample -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->
